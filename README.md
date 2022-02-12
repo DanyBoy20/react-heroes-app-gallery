@@ -13,8 +13,9 @@ __Hooks:__
 * useEffect.
 * useReducer.
 * useContext.
+* React Router.
 
-__QueryString: Fornat query string (URL):__
+__QueryString: Format query string (URL):__
 
 * querystring.
 
